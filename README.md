@@ -1,0 +1,2 @@
+# FAQ
+Simply HTML FAQ
